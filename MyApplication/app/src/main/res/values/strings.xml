@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Vem pra van</string>
+    <string name="text_accounts">Usuários Registrados</string>
+    <string name="hint_name">Nome</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Senha</string>
+    <string name="hint_confirm_password">Confirmar senha</string>
+    <string name="text_login">Entrar</string>
+    <string name="text_register">Registrar</string>
+    <string name="error_message_name">Nome completo</string>
+    <string name="error_message_email">Email</string>
+    <string name="error_message_age">Idade</string>
+    <string name="error_message_password">Senha</string>
+    <string name="success_message">Usuário resgistrado</string>
+    <string name="text_not_member">Registrar-se</string>
+    <string name="text_already_member">Entrar</string>
+    <string name="error_email_exists">Email em uso</string>
+    <string name="error_password_match">Senhas não coincidem</string>
+    <string name="error_valid_email_password">Email ou senha inválidos</string>
+    <string name="action_settings">Configurações</string>
+    <string name="text_hello">Seja bem vindo</string>
+    <string name="text_title">Vem Pra Van</string>
+    <string name="already_member">Já possui um resgistro ? Conecte-se</string>
+</resources>
